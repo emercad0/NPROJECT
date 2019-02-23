@@ -6,14 +6,12 @@
 
 ### https://public.tableau.com/profile/parentfolder#!/vizhome/FinalProject_718/Story1
 
-
-### https://github.com/emercad0/NPROJECT
-
-
 ### http://www.lrec-conf.org/proceedings/lrec2018/pdf/204.pdf
 ### https://rit-public.github.io/HappyDB/
+# https://nlp.stanford.edu/software/lex-parser.shtml#Download
 
-I had to make some configurations to my python libs to use the libaries effectively 
-nltk
-nodebox_linguistics_extended en
-from nltk.parse.stanford import StanfordDependencyParser
+
+I had to make some configurations to my python libs to use these libaries effectively 
+# nltk
+# nodebox_linguistics_extended en
+# from nltk.parse.stanford import StanfordDependencyParser
