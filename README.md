@@ -12,6 +12,7 @@
 
 
 I had to make some configurations to my python libs to use these libaries effectively 
-# nltk
-# nodebox_linguistics_extended en
-# from nltk.parse.stanford import StanfordDependencyParser
+
+ nltk
+ nodebox_linguistics_extended en
+ from nltk.parse.stanford import StanfordDependencyParser
