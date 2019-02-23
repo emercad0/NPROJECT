@@ -1,7 +1,7 @@
 # FinalPROJECT
 
 
-#### Analysis based on the data that was collected from HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments. I parsed the collected sentences with python by sentence parts using natural language processing. With this breakdown I was able to draw a connection to determine what makes people happy.
+#### Analysis based on the data that was collected from HappyDB: A Corpus of 100,000 Crowdsourced Happy Moments. I created a script to split the collected sentences by sentence parts using natural language processing with python. With this breakdown I was able to draw a connection to determine what makes people happy.
 
 
 ### https://public.tableau.com/profile/parentfolder#!/vizhome/FinalProject_718/Story1
